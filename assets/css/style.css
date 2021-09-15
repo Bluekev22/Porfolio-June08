@@ -205,6 +205,14 @@ main img:hover {
 }
 
 footer p {
+  margin-left: 6rem;
   font-size: 1.2rem;
-  font-weight: 500;
+}
+
+footer a {
+  font-size: 1.2rem;
+}
+
+.github {
+  margin-left: 5rem;
 }
